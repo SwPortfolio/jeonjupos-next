@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 개요
+
+POS기 없이 식당을 운영중인 부모님이 운영에 대한 불편함을 느껴 자체 개발을 진행하게됨 
+
 ## Getting Started
 
 First, run the development server:
